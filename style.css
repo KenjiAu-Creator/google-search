@@ -15,6 +15,7 @@ div.SearchArea {
 }
 ul.STool {
     padding-left: 0px;
+    margin-left: 0px;
 }
 li.SearchTool {
     display: inline;
@@ -42,7 +43,7 @@ li.SearchTool {
     height: auto;
 }
 #More {
-    width: 0.5%;
+    width: 1.5%;
     height: auto;
 }
 #Search {
